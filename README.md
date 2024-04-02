@@ -1,10 +1,12 @@
-- 👋 Hi, I’m Sajinder.
-- 👀 I’m interested in Java Programming.
-- 🌱 I’m currently learning Design Patterns.
-- 💞️ I’m looking to collaborate on Stack Overflow.
-- 📫 You can reach me through my email sanj.sohal@gmail.com
+About Me
+I am an experienced Software Engineer with a Bachelor of Engineering (B.E.) in Information Technology from Chandigarh University. With over 8 years of experience, I specialize in full-stack development and have a strong knowledge of front-end and back-end techniques. My goal is to deliver high-quality software solutions and ensure client satisfaction.
 
-<!---
-sanjsohal/sanjsohal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills
+Back-end Development: Java, Spring Boot,
+Front-end Development: JavaScript, TypeScript, React
+Cloud Platforms: AWS (EC2, Serverless, Lambda, Step Functions, Elastic Beanstalk), Azure Functions
+DevOps and Deployment: Docker, Jenkins, Kubernetes, Terraform
+Databases: MySQL,PostgreSQL, MongoDB, DynamoDB
+Version Control: Git, Bitbucket
+Project Management: Jira, Confluence, Trello
+Collaboration: Slack, Microsoft Teams, Google Workspace
