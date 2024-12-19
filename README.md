@@ -1,5 +1,5 @@
 About Me
-I am an experienced Software Engineer with a Bachelor of Engineering (B.E.) in Information Technology from Chandigarh University. With over 8 years of experience, I specialize in full-stack development and have a strong knowledge of front-end and back-end techniques. My goal is to deliver high-quality software solutions and ensure client satisfaction.
+I am an experienced Software Engineer with a Bachelor of Engineering (B.E.) in Information Technology from Punjab Technical University. With over 9 years of experience, I specialize in full-stack development and have a strong knowledge of front-end and back-end techniques. My goal is to deliver high-quality software solutions and ensure client satisfaction.
 
 Skills
 Back-end Development: Java, Spring Boot,
